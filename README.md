@@ -27,3 +27,19 @@ A simple Python program to practice and understand object-oriented programming c
 - Copy the code.
 - Run the script using: `python student_grader_tracker.py`
 
+## 3. Library Book System -- 'library_book_system.py'
+
+A simple Python program to practice and understand object-oriented programming concepts using Book and Library classes. [Library Book System Code (library_book_system.py)](library_book_system.py)
+
+### Features
+- Add books to the library.
+- Remove books from the library.
+- Borrow books (mark as unavailable).
+- Return books (mark as available).
+- Display book details and availability status.
+
+### How to Run
+- Copy the code.
+- Run the script using: `python library_book_system.py`
+
+
