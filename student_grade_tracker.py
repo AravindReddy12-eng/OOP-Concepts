@@ -9,7 +9,7 @@ class Student:
             self.grades.append(grade)
             print("The grade is added.")
         else:
-            print("Invalid grade. Please enter a value between 0 and 100.")
+            print("Invalid grade. Please enter a value between 0 and 10.")
 
     def calculate_avg(self):
         if self.grades:
@@ -30,4 +30,5 @@ student.add_grade(9)
 student.add_grade(9)
 student.add_grade(8)
 student.display_details()
+
 
