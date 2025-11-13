@@ -5,7 +5,7 @@ class Student:
         self.grades = []
 
     def add_grade(self, grade):
-        if 0 <= grade <= 100:
+        if 0 <= grade <= 10:
             self.grades.append(grade)
             print("The grade is added.")
         else:
@@ -30,3 +30,4 @@ student.add_grade(9)
 student.add_grade(9)
 student.add_grade(8)
 student.display_details()
+
