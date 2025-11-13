@@ -13,3 +13,17 @@ A simple Python program to practice and understand object-oriented programming c
 ## How to Run
 - Copy the code
 - Run the script using: `python python bank_system.py`
+
+## Student Grade Tracker -- 'student_grader_tracker.py'
+[](https://github.com/AravindReddy12-eng/OOP-Concepts/blob/main/README.md#student-grade-tracker-----student_grader_trackerpy)
+A simple Python program to practice and understand object-oriented programming concepts using a Student class. [Student Grade Tracker Code (student_grader_tracker.py)](https://github.com/AravindReddy12-eng/OOP-Concepts/blob/main/student_grader_tracker.py)
+
+### Features
+- Add grades for a student.
+- Calculate and display the average grade.
+- Display student details including name, roll number, grades, and average.
+
+### How to Run
+- Copy the code.
+- Run the script using: `python student_grader_tracker.py`
+
