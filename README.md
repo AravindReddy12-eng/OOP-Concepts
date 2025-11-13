@@ -11,5 +11,5 @@ A simple Python program to practice and understand object-oriented programming c
 - Deposit, withdraw, check balance, and transfer money between accounts.
 
 ## How to Run
-- Clone this repository.
-- Run the script using: `python bank_system.py`
+- Copy the code
+- Run the script using: `python python bank_system.py`
