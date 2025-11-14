@@ -42,4 +42,43 @@ A simple Python program to practice and understand object-oriented programming c
 - Copy the code.
 - Run the script using: `python library_book_system.py`
 
+# Task Manager
+
+A simple Python-based task manager application that allows users to create, manage, and track tasks using object-oriented programming concepts.
+
+---
+
+## 📂 Features
+
+- **Add Task:** Create a new task with a title and description.
+- **Remove Task:** Delete a task by its title.
+- **Mark Complete:** Update the status of a task to "Completed".
+- **List Tasks:** View all tasks with their current status.
+
+---
+
+## 🧩 Classes
+
+### Task
+- Represents a single task with:
+  - `title`: Name of the task.
+  - `description`: Details about the task.
+  - `status`: Current status ("Pending" or "Completed").
+
+### TaskList
+- Manages a collection of tasks.
+- Provides methods to:
+  - Add, remove, mark as complete, and list tasks.
+
+---
+
+## 🛠️ Technologies Used
+- Python
+
+---
+
+## 📎 How to Run
+
+1. Copy the code
+2. python task_manager.py
 
