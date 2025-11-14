@@ -42,13 +42,13 @@ A simple Python program to practice and understand object-oriented programming c
 - Copy the code.
 - Run the script using: `python library_book_system.py`
 
-# Task Manager
+## 4. Task Manager -- 'task_manager.py'
 
-A simple Python-based task manager application that allows users to create, manage, and track tasks using object-oriented programming concepts.
+A simple Python-based task manager application that allows users to create, manage, and track tasks using object-oriented programming concepts. [Task Manager Code (task_manager.py)](task_manager.py)
 
 ---
 
-## 📂 Features
+### 📂 Features
 
 - **Add Task:** Create a new task with a title and description.
 - **Remove Task:** Delete a task by its title.
@@ -57,7 +57,7 @@ A simple Python-based task manager application that allows users to create, mana
 
 ---
 
-## 🧩 Classes
+### 🧩 Classes
 
 ### Task
 - Represents a single task with:
@@ -72,12 +72,12 @@ A simple Python-based task manager application that allows users to create, mana
 
 ---
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 - Python
 
 ---
 
-## 📎 How to Run
+### 📎 How to Run
 
 1. Copy the code
 2. python task_manager.py
