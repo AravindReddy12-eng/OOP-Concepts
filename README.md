@@ -7,10 +7,10 @@ A simple Python program to practice and understand object-oriented programming c
 [Bank System Code (bank_system.py)](bank_system.py)
 
 
-## Features
+### Features
 - Deposit, withdraw, check balance, and transfer money between accounts.
 
-## How to Run
+### How to Run
 - Copy the code
 - Run the script using: `python python bank_system.py`
 
